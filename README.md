@@ -4,7 +4,7 @@
 # lmdb-rs
 
 Idiomatic and safe APIs for interacting with the
-[Symas Lightning Memory-Mapped Database (LMDB)](http://symas.com/mdb/).
+[Symas Lightning Memory-Mapped Database (LMDB)](http://symas.com/lmdb/).
 
 This repo is a fork of [danburkert/lmdb-rs](https://github.com/danburkert/lmdb-rs)
 with fixes for issues encountered by [mozilla/rkv](https://github.com/mozilla/rkv).
